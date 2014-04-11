@@ -1,0 +1,4 @@
+#DO NOT DELETE THIS LINE#Enter stocks in the format tickerSPACEshares#
+goog 100
+tsla 100
+aapl 50
